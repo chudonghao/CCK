@@ -1,0 +1,22 @@
+
+
+enable cdh_import,cdh_geter,cdh_seter as import,geter,seter
+
+import iostream
+import string
+
+using namespace std;
+class person_t{
+    int age_{
+            geter age
+            seter age
+    };
+    string name_{
+            geter name
+            seter name(const string& name){}
+    };
+public:
+    void say(){
+
+    }
+};
